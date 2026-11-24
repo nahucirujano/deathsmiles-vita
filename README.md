@@ -106,7 +106,7 @@ Deathsmiles for iOS is an ARMv7 program written in Objective-C, using OpenGL ES 
 
 - Stage transitions can pause for about 1–1.5 seconds. Most of this time is the game's own loader decoding its data; the port already shortens it with the 444 MHz loading boost and read-ahead.
 - Game Center is not available. The game's own in-game achievements still work.
-- Untested on PCH-1000 (original "fat" Vita) and PlayStation TV.
+- Untested on PlayStation TV.
 
 ## Credits
 
