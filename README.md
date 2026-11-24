@@ -43,7 +43,7 @@ The port runs the original iOS game code on the Vita through a custom loader tha
 
 ## Requirements
 
-- A PlayStation Vita or PlayStation TV with HENkaku / h-encore / Ensō. Tested on a PCH-2000 on firmware 3.60.
+- A PlayStation Vita or PlayStation TV with HENkaku / h-encore / Ensō. Tested on PCH-2000 and PCH-1000, both on firmware 3.60 with Ensō.
 - **kubridge** installed (`ur0:tai/kubridge.skprx` listed under `*KERNEL` in `ur0:tai/config.txt`).
 - **libshacccg.suprx** extracted to `ur0:data/` (required by vitaGL).
 - Your own copy of **Deathsmiles 1.0.9 for iOS** (`.ipa`). The game executable inside it must be decrypted. Apps downloaded from the App Store are locked to the Apple account that bought them (FairPlay encryption), and that locked code cannot run on the Vita. The port checks this on first launch and tells you if your copy is encrypted or a different version.
