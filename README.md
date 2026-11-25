@@ -1,9 +1,9 @@
 # Deathsmiles for PlayStation Vita
 
 <p align="center">
-  <img width="267" alt="Captura 1" src="https://github.com/user-attachments/assets/5420e905-0c8d-4ae2-9082-cf047259f075" />
-  <img width="280" alt="Captura 2" src="https://github.com/user-attachments/assets/4b661da1-e32e-4499-acb2-033dc5146617" />
-  <img width="287" alt="Captura 3" src="https://github.com/user-attachments/assets/39f0fab9-a2b4-4dfa-8c1d-c5ad6670f210" />
+  <img width="248" alt="Captura 1" src="https://github.com/user-attachments/assets/5420e905-0c8d-4ae2-9082-cf047259f075" />
+  <img width="260" alt="Captura 2" src="https://github.com/user-attachments/assets/4b661da1-e32e-4499-acb2-033dc5146617" />
+  <img width="266" alt="Captura 3" src="https://github.com/user-attachments/assets/39f0fab9-a2b4-4dfa-8c1d-c5ad6670f210" />
 </p>
 
 An unofficial PlayStation Vita port of iOS **Deathsmiles** (CAVE, version 1.0.9).
@@ -15,9 +15,9 @@ The port runs the original iOS game code on the Vita through a custom loader tha
 ## Features
 
 <p align="center">
-  <img width="280" alt="shot_004" src="https://github.com/user-attachments/assets/08afa1c2-a0f7-460b-aa8f-439e781d71d1" />
-  <img width="280" alt="shot_004" src="https://github.com/user-attachments/assets/385ee66c-250b-4ea3-811f-f4a5a6bd53c7" />
-  <img width="280" alt="Screenshot 3" src="https://github.com/user-attachments/assets/a8fcfc29-9227-4238-9431-ed4d9d3bc7c3" />
+  <img width="255" alt="shot_004" src="https://github.com/user-attachments/assets/08afa1c2-a0f7-460b-aa8f-439e781d71d1" />
+  <img width="255" alt="shot_004" src="https://github.com/user-attachments/assets/385ee66c-250b-4ea3-811f-f4a5a6bd53c7" />
+  <img width="255" alt="Screenshot 3" src="https://github.com/user-attachments/assets/a8fcfc29-9227-4238-9431-ed4d9d3bc7c3" />
 </p>
 
 - **Full game:** Arcade mode and Smartphone mode, all stages, bosses, endings and credits. Tested with a one-credit clear on real hardware.
@@ -54,9 +54,9 @@ The port runs the original iOS game code on the Vita through a custom loader tha
 ## Requirements
 
 <p align="center">
-  <img width="280" alt="Screenshot 4" src="https://github.com/user-attachments/assets/7e271733-95b5-41cd-b9b9-7d405093f8cd" />
-  <img width="280" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b19fe9cd-7ef8-4135-884e-81bc0c683faf" />
-  <img width="280" alt="Screenshot 5" src="https://github.com/user-attachments/assets/ca3459a1-c6c3-404d-8630-a02fdb8a0af9" />
+  <img width="255" alt="Screenshot 4" src="https://github.com/user-attachments/assets/7e271733-95b5-41cd-b9b9-7d405093f8cd" />
+  <img width="255" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b19fe9cd-7ef8-4135-884e-81bc0c683faf" />
+  <img width="255" alt="Screenshot 5" src="https://github.com/user-attachments/assets/ca3459a1-c6c3-404d-8630-a02fdb8a0af9" />
 </p>
 
 - A PlayStation Vita or PlayStation TV with HENkaku / h-encore / Ensō. Tested on PCH-2000 and PCH-1000, both on firmware 3.60 with Ensō.
