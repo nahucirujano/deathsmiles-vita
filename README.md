@@ -1,14 +1,24 @@
 # Deathsmiles for PlayStation Vita
 
-An unofficial PlayStation Vita port of **Deathsmiles** for iPhone and iPod touch (CAVE, version 1.0.9).
+<p align="center">
+  <img width="267" alt="Captura 1" src="https://github.com/user-attachments/assets/5420e905-0c8d-4ae2-9082-cf047259f075" />
+  <img width="280" alt="Captura 2" src="https://github.com/user-attachments/assets/4b661da1-e32e-4499-acb2-033dc5146617" />
+  <img width="287" alt="Captura 3" src="https://github.com/user-attachments/assets/39f0fab9-a2b4-4dfa-8c1d-c5ad6670f210" />
+</p>
+
+An unofficial PlayStation Vita port of iOS **Deathsmiles** (CAVE, version 1.0.9).
 
 The port runs the original iOS game code on the Vita through a custom loader that recreates the parts of iOS the game needs. It runs at a locked 60 FPS on a stock Vita, without overclocking or plugins. You get physical button controls with three control layouts, custom side bezels and a full LiveArea manual.
 
 > This project contains **no game files**. You need your own copy of the iOS game.
 
----
-
 ## Features
+
+<p align="center">
+  <img width="280" alt="shot_004" src="https://github.com/user-attachments/assets/08afa1c2-a0f7-460b-aa8f-439e781d71d1" />
+  <img width="280" alt="shot_004" src="https://github.com/user-attachments/assets/385ee66c-250b-4ea3-811f-f4a5a6bd53c7" />
+  <img width="280" alt="Screenshot 3" src="https://github.com/user-attachments/assets/a8fcfc29-9227-4238-9431-ed4d9d3bc7c3" />
+</p>
 
 - **Full game:** Arcade mode and Smartphone mode, all stages, bosses, endings and credits. Tested with a one-credit clear on real hardware.
 - **60 FPS** at the Vita's default clock speeds (333 MHz CPU / 166 MHz GPU).
@@ -42,6 +52,12 @@ The port runs the original iOS game code on the Vita through a custom loader tha
 - Your control type is saved in `ux0:data/deathsmiles/controls.txt`.
 
 ## Requirements
+
+<p align="center">
+  <img width="280" alt="Screenshot 4" src="https://github.com/user-attachments/assets/7e271733-95b5-41cd-b9b9-7d405093f8cd" />
+  <img width="280" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b19fe9cd-7ef8-4135-884e-81bc0c683faf" />
+  <img width="280" alt="Screenshot 5" src="https://github.com/user-attachments/assets/ca3459a1-c6c3-404d-8630-a02fdb8a0af9" />
+</p>
 
 - A PlayStation Vita or PlayStation TV with HENkaku / h-encore / Ensō. Tested on PCH-2000 and PCH-1000, both on firmware 3.60 with Ensō.
 - **kubridge** installed (`ur0:tai/kubridge.skprx` listed under `*KERNEL` in `ur0:tai/config.txt`).
@@ -79,6 +95,14 @@ The bezels are included in the VPK. To use your own artwork, place a PNG with th
 - `bezel.png`: fallback for any character without its own bezel.
 
 ## How the port works
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=9GEwQiTKLI0">
+    <img width="640" alt="Watch Gameplay Video on YouTube" src="https://github.com/user-attachments/assets/dddca537-d9da-44b0-b1eb-41bba2ac98ac" />
+  </a>
+  <br>
+  <em>Click the image above to watch 60 FPS gameplay on YouTube</em>
+</p>
 
 Deathsmiles for iOS is an ARMv7 program written in Objective-C, using OpenGL ES 1.1, OpenAL and UIKit. The Vita has the same CPU architecture (32-bit ARMv7), so the original machine code runs natively. The port rebuilds the environment around it.
 
